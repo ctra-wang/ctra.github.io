@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>标签列表 | CTRA王大大`blog</title>
+<title>1分钟打造个人博客 | CTRA王大大`blog</title>
 <meta name="description" content="CTRA王大大">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -13,6 +13,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://holyson.github.io/ctra.github.io//styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -91,12 +97,42 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="tag-list-title">标签列表</h2>
-          <div class="tags-container">
+          <div class="post-detail">
+            <h2 class="post-title">1分钟打造个人博客</h2>
+            <div class="post-date">2020-03-22</div>
             
-              <a class="tag" href="https://holyson.github.io/ctra.github.io//tag/GpT27thTu">Gridea</a>
+            <div class="post-content">
+              <h3 id="1首先我们登陆-github-官网">1.首先我们登陆 github 官网</h3>
+<p>网址：https://github.com/<br>
+<img src="https://holyson.github.io/ctra.github.io//post-images/1584860724014.png" alt=""><br>
+然后我们自行注册</p>
+<h3 id="2如果您已经可以登陆到github中">2.如果您已经可以登陆到github中</h3>
+<p>请点击：我的-你的仓库<br>
+<img src="https://holyson.github.io/ctra.github.io//post-images/1584861064697.png" alt=""></p>
+
+            </div>
             
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://holyson.github.io/ctra.github.io//post/test">
+                  <h3 class="post-title">
+                    ctra王大大
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
       </div>
     </div>
@@ -117,6 +153,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'c8095f1dffb004fc399d',
+        clientSecret: '47a97b6ab252e98d6f37aabdf74dd73c39722e6d',
+        repo: 'blog-comment',
+        owner: 'Holyson',
+        admin: ['Holyson'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
