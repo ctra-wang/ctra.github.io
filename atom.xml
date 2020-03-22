@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://holyson.github.io/ctra.github.io/</id>
     <title>CTRA王大大`blog</title>
-    <updated>2020-03-22T07:55:58.482Z</updated>
+    <updated>2020-03-22T07:59:27.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://holyson.github.io/ctra.github.io/"/>
     <link rel="self" href="https://holyson.github.io/ctra.github.io//atom.xml"/>
@@ -16,6 +16,14 @@
         <link href="https://holyson.github.io/ctra.github.io//post/1-da-jian-da-zao-ge-ren-wang-zhan-wu-fu-wu-qi-wu-yu-ming">
         </link>
         <updated>2020-03-22T07:02:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>通过 github 快速搭建属于自己的个人网站<br>
+后面还会有课程帮助大家把个人网站搭建成一个个人博客<br>
+在博客的基础上增加评论功能等...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>通过 github 快速搭建属于自己的个人网站<br>
+后面还会有课程帮助大家把个人网站搭建成一个个人博客<br>
+在博客的基础上增加评论功能等...</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[五分钟零成本搭建个人博客]]></title>
