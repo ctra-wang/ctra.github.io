@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://holyson.github.io/ctra.github.io/</id>
     <title>CTRA王大大`blog</title>
-    <updated>2020-03-22T07:26:37.666Z</updated>
+    <updated>2020-03-22T07:55:29.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://holyson.github.io/ctra.github.io/"/>
     <link rel="self" href="https://holyson.github.io/ctra.github.io//atom.xml"/>
@@ -11,18 +11,22 @@
     <icon>https://holyson.github.io/ctra.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, CTRA王大大`blog</rights>
     <entry>
-        <title type="html"><![CDATA[1搭建打造个人网站（无服务器、无域名）]]></title>
+        <title type="html"><![CDATA[一分钟搭建打造个人网站（无服务器、无域名）]]></title>
         <id>https://holyson.github.io/ctra.github.io//post/1-da-jian-da-zao-ge-ren-wang-zhan-wu-fu-wu-qi-wu-yu-ming</id>
         <link href="https://holyson.github.io/ctra.github.io//post/1-da-jian-da-zao-ge-ren-wang-zhan-wu-fu-wu-qi-wu-yu-ming">
         </link>
         <updated>2020-03-22T07:02:56.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1分钟打造个人博客]]></title>
+        <title type="html"><![CDATA[五分钟零成本搭建个人博客]]></title>
         <id>https://holyson.github.io/ctra.github.io//post/1-fen-zhong-da-zao-ge-ren-bo-ke</id>
         <link href="https://holyson.github.io/ctra.github.io//post/1-fen-zhong-da-zao-ge-ren-bo-ke">
         </link>
         <updated>2020-03-22T07:02:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>通过github搭建+gridea管理工具，快速搭建我们的个人博客</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>通过github搭建+gridea管理工具，快速搭建我们的个人博客</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ctra王大大]]></title>
