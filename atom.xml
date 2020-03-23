@@ -2,18 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://holyson.github.io/ctra.github.io/</id>
     <title>CTRA王大大`blog</title>
-    <updated>2020-03-22T07:59:27.666Z</updated>
+    <updated>2020-03-23T03:00:55.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://holyson.github.io/ctra.github.io/"/>
-    <link rel="self" href="https://holyson.github.io/ctra.github.io//atom.xml"/>
+    <link rel="self" href="https://holyson.github.io/ctra.github.io/atom.xml"/>
     <subtitle>CTRA王大大</subtitle>
-    <logo>https://holyson.github.io/ctra.github.io//images/avatar.png</logo>
-    <icon>https://holyson.github.io/ctra.github.io//favicon.ico</icon>
+    <logo>https://holyson.github.io/ctra.github.io/images/avatar.png</logo>
+    <icon>https://holyson.github.io/ctra.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, CTRA王大大`blog</rights>
     <entry>
+        <title type="html"><![CDATA[五分钟零成本搭建个人博客]]></title>
+        <id>https://holyson.github.io/ctra.github.io/post/1-fen-zhong-da-zao-ge-ren-bo-ke/</id>
+        <link href="https://holyson.github.io/ctra.github.io/post/1-fen-zhong-da-zao-ge-ren-bo-ke/">
+        </link>
+        <updated>2020-03-22T07:02:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>通过github搭建+gridea管理工具，快速搭建我们的个人博客</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>通过github搭建+gridea管理工具，快速搭建我们的个人博客</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一分钟搭建打造个人网站（无服务器、无域名）]]></title>
-        <id>https://holyson.github.io/ctra.github.io//post/1-da-jian-da-zao-ge-ren-wang-zhan-wu-fu-wu-qi-wu-yu-ming</id>
-        <link href="https://holyson.github.io/ctra.github.io//post/1-da-jian-da-zao-ge-ren-wang-zhan-wu-fu-wu-qi-wu-yu-ming">
+        <id>https://holyson.github.io/ctra.github.io/post/oneminbuildWebSite/</id>
+        <link href="https://holyson.github.io/ctra.github.io/post/oneminbuildWebSite/">
         </link>
         <updated>2020-03-22T07:02:56.000Z</updated>
         <summary type="html"><![CDATA[<p>通过 github 快速搭建属于自己的个人网站<br>
@@ -26,34 +37,29 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五分钟零成本搭建个人博客]]></title>
-        <id>https://holyson.github.io/ctra.github.io//post/1-fen-zhong-da-zao-ge-ren-bo-ke</id>
-        <link href="https://holyson.github.io/ctra.github.io//post/1-fen-zhong-da-zao-ge-ren-bo-ke">
+        <title type="html"><![CDATA[c++ 教程]]></title>
+        <id>https://holyson.github.io/ctra.github.io/post/c++/</id>
+        <link href="https://holyson.github.io/ctra.github.io/post/c++/">
         </link>
-        <updated>2020-03-22T07:02:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>通过github搭建+gridea管理工具，快速搭建我们的个人博客</p>
+        <updated>2020-03-21T03:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>根据小码哥（M了个J）视频教程总结<br>
+文中代码尽量做到复制粘</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>通过github搭建+gridea管理工具，快速搭建我们的个人博客</p>
+        <content type="html"><![CDATA[<p>根据小码哥（M了个J）视频教程总结<br>
+文中代码尽量做到复制粘</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ctra王大大]]></title>
-        <id>https://holyson.github.io/ctra.github.io//post/test</id>
-        <link href="https://holyson.github.io/ctra.github.io//post/test">
-        </link>
-        <updated>2020-03-21T03:41:00.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://holyson.github.io/ctra.github.io//post/about</id>
-        <link href="https://holyson.github.io/ctra.github.io//post/about">
+        <id>https://holyson.github.io/ctra.github.io/post/about/</id>
+        <link href="https://holyson.github.io/ctra.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello 越野跑者]]></title>
-        <id>https://holyson.github.io/ctra.github.io//post/hello-gridea</id>
-        <link href="https://holyson.github.io/ctra.github.io//post/hello-gridea">
+        <id>https://holyson.github.io/ctra.github.io/post/hello-gridea/</id>
+        <link href="https://holyson.github.io/ctra.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
     </entry>
